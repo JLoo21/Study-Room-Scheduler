@@ -1,0 +1,11 @@
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\bin\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.deps.json
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\bin\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.runtimeconfig.json
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\bin\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.runtimeconfig.dev.json
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\bin\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.dll
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\bin\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.pdb
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\obj\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.csprojAssemblyReference.cache
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\obj\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.csproj.CoreCompileInputs.cache
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\obj\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.AssemblyInfoInputs.cache
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\obj\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.AssemblyInfo.cs
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\obj\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.dll
+c:\users\joshu\source\repos\StudyRoomScheduler\StudyRoomScheduler\obj\Release\netcoreapp2.1\rhel.7.2-x64\StudyRoomScheduler.pdb
